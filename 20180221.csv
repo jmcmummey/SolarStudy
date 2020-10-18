@@ -1,0 +1,37 @@
+time,temp,forecast,wind,humindity,visiblility,Date
+0,14,Mostly Cloudy,13,88,20,2018-02-21
+0.25,14,Mostly Cloudy,17,82,20,2018-02-21
+2,13,Mostly Cloudy,9,82,20,2018-02-21
+3,13,Mostly Cloudy,9,82,20,2018-02-21
+4,12,Mostly Cloudy,0,88,20,2018-02-21
+5,9,Mostly Cloudy,7,87,20,2018-02-21
+5.5,10,Light Rain,13,94,20,2018-02-21
+6,10,Light Rain,7,94,20,2018-02-21
+6.2,10,Light Rain,6,94,20,2018-02-21
+6.45,10,Light Rain,13,94,20,2018-02-21
+6.5,10,Rain,22,94,20,2018-02-21
+6.55,7,Light Rain / Windy,37,93,20,2018-02-21
+6.75,5,Light Rain / Windy,37,93,20,2018-02-21
+7,4,Light Rain / Windy,35,93,20,2018-02-21
+7.05,4,Light Rain,31,93,20,2018-02-21
+7.33,4,Light Rain / Windy,33,87,20,2018-02-21
+8,3,Light Rain,30,93,20,2018-02-21
+9,3,Light Rain / Windy,33,93,20,2018-02-21
+9.5,2,Light Rain / Windy,37,93,20,2018-02-21
+10,2,Light Rain / Windy,35,93,20,2018-02-21
+11,3,Light Rain / Windy,33,93,20,2018-02-21
+12,2,Light Rain / Windy,37,87,20,2018-02-21
+13,2,Light Rain / Windy,33,81,20,2018-02-21
+13.1,2,Cloudy,26,81,20,2018-02-21
+14,3,Mostly Cloudy,30,70,20,2018-02-21
+15,4,Mostly Cloudy,26,64,20,2018-02-21
+16,3,Mostly Cloudy,17,56,20,2018-02-21
+16.8,2,Mostly Cloudy,13,65,20,2018-02-21
+17,3,Mostly Cloudy,13,60,20,2018-02-21
+17.1,2,Mostly Cloudy,15,60,20,2018-02-21
+18,1,Mostly Cloudy,13,65,20,2018-02-21
+19,1,Mostly Cloudy,9,70,20,2018-02-21
+20,0,Mostly Cloudy,15,69,20,2018-02-21
+21,-1,Mostly Cloudy,11,75,20,2018-02-21
+22,-1,Mostly Cloudy,13,75,20,2018-02-21
+23,-1,Cloudy,17,75,20,2018-02-21
